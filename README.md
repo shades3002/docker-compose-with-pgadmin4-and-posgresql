@@ -5,16 +5,16 @@ Containers needed to build an instance of PgAdmin4 and Postgresql 13.2
 ## Getting started 
 
 ```bash
-    docker-compose up -d
+docker-compose up -d
 ```
 
-####In your web browser
+#### In your web browser
 
 ```bash
-   http://localhost/login
+http://localhost/login
 ```
 
-####Setup database
+#### Setup database
 
 1. Click Add New Server under Quick Links.
 2. Enter Name under General. The value can be anything.
