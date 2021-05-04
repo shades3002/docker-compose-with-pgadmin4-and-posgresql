@@ -8,6 +8,11 @@ Containers needed to build an instance of PgAdmin4 and Postgresql 13.2
 docker-compose up -d
 ```
 
+## Stopping Docker Compose
+```bash
+docker-compose down
+```
+
 #### In your web browser
 
 ```bash
